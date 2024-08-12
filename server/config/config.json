@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "appUser",
+    "password": "test123",
+    "database": "banner_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
